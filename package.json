@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svitalis123/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svitalis123/unit-testing/issues"
+  },
+  "homepage": "https://github.com/svitalis123/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
